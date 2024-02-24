@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582859157354",
+    "project_id": "dispositivosmovilesjo",
+    "storage_bucket": "dispositivosmovilesjo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582859157354:android:eab66442b8fe842bf6bf13",
+        "android_client_info": {
+          "package_name": "com.biometric.jo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0aAQgxFdjxehxgfaGxgepug4ku2jm_o4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
